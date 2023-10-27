@@ -18,24 +18,13 @@ Sempre amei a √°rea da tecnologia desde que me entendo como pessoa, desde crian√
 
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextJs)
-  ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
+  ![Node.js]<img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)
-  ![VS](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Dart](https://img.shields.io/badge/-dart-333333?style=flat&logo=dart)
-  ![Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter) 
-  ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=c)
   ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
-  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-
+  
 
 <a href="https://www.linkedin.com/in/ruhan-karlo-da-rocha-lacerda-476b47231/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
