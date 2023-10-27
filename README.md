@@ -1,6 +1,6 @@
-**OLÁ, MEU NOME É RUHAN KARLO**
+##OLÁ, MEU NOME É RUHAN KARLO
 
- <iframe src="GitRuhan.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="GitRuhan.gif">
+ <iframe src="https://giphy.com/gifs/m10Gv80FMnbbBlfCAF" min-width="300px" max-width="300px" width="300px" align="right" alt="GitRuhan.gif">
 
 Portifólio:
 
@@ -20,14 +20,13 @@ Sempre amei a área da tecnologia desde que me entendo como pessoa, desde crian�
 <h3> 👾 &nbsp;Conhecimentos até aqui </h3>
 
 
-  <img width="30" height="30" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java logo"/>
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)							
-  <img width="30" height="30" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)	
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
+  <img width="35" height="30" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java logo"/>
+  <img width="35" height="30" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript-333333"/>
+  <img width="30" height="30" src="https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code" alt="VsCode-333333"/>
+  <img width="30" height="30" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git-333333"/>
+  <img width="30" height="30" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub-333333"/>
+  
+ 
   
 
 <a href="https://www.linkedin.com/in/ruhan-karlo-da-rocha-lacerda-476b47231/" target="_blank">
