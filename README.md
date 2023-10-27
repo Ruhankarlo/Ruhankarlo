@@ -1,5 +1,7 @@
 **OLÁ, MEU NOME É RUHAN KARLO**
 
+ <iframe src="GitRuhan.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="GitRuhan.gif">
+
 Portifólio:
 
 *Uma breve apresentação: *
@@ -18,11 +20,12 @@ Sempre amei a área da tecnologia desde que me entendo como pessoa, desde crian�
 <h3> 👾 &nbsp;Conhecimentos até aqui </h3>
 
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)							<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/m10Gv80FMnbbBlfCAF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/m10Gv80FMnbbBlfCAF">via GIPHY</a></p>
+  <img width="30" height="30" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java logo"/>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)							
   <img width="30" height="30" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)	
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
   
