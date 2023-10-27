@@ -1,4 +1,5 @@
 **OLÁ, MEU NOME É RUHAN KARLO**
+
 Portifólio:
 
 *Uma breve apresentação: *
@@ -18,7 +19,7 @@ Sempre amei a área da tecnologia desde que me entendo como pessoa, desde crian�
 
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js]<img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+  <img width="28" height="28" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
