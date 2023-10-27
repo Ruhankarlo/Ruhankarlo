@@ -1,6 +1,6 @@
 ##OLÁ, MEU NOME É RUHAN KARLO
 
- <img width="35" height="30" src="https://giphy.com/gifs/m10Gv80FMnbbBlfCAF" alt="GitRuhan.gif"/>
+<iframe src="https://giphy.com/embed/m10Gv80FMnbbBlfCAF" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/m10Gv80FMnbbBlfCAF">via GIPHY</a></p>
 
 Portifólio:
 
@@ -20,11 +20,7 @@ Sempre amei a área da tecnologia desde que me entendo como pessoa, desde crian�
 <h3> 👾 &nbsp;Conhecimentos até aqui </h3>
 
 
-  <img width="35" height="30" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java logo"/>
- <img width="36" height="28" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript-333333"/>
- <img width="30" height="24" src="https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code" alt="VsCode-333333"/>
- <img width="30" height="25" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git-333333"/>
- <img width="30" height="24" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub-333333"/>
+  <img width="25" height="20" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java logo"/><img width="36" height="18" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript-333333"/><img width="30" height="14" src="https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code" alt="VsCode-333333"/><img width="30" height="15" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git-333333"/><img width="30" height="14" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub-333333"/>
   
  
   
