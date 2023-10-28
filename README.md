@@ -35,11 +35,9 @@ Sempre amei a √°rea da tecnologia desde que me entendo como pessoa, desde crian√
 <a href="https://www.instagram.com/ruhankarlo/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
-<a href="https://www.facebook.com/programador.emerson" target="_blank">
+<a href="https://www.facebook.com/ruhan.karlo" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png" width="48px" height="48px">
 </a>
 
 
 
-
-[Pascal]: ttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVCzh-Z2dbX7qpq-eLRR2y9dgaGqMU14oKkq0SzhJR1MEYbAevwwluvR7Fv_ObLVRwOJ5DbDXvCm4Guwz7a4FGr5TlwiH1TiC9XERq-uxXH-2_3UutcrPRvDw0Jfbm2-Pu3yMcx5jeiS2wigCNKY_5zsPEymW9wfcFMflBJcD3jQ-2t1_B5HjezKlw4w/s400/lenguaje-pascal.jp
