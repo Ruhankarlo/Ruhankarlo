@@ -25,7 +25,7 @@ Sempre amei a √°rea da tecnologia desde que me entendo como pessoa, desde crian√
   <img width="45" height="16" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript-333333"/><img width="46" height="14" src="https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code" alt="VsCode-333333"/><img width="35" height="17" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git-333333"/><img width="45" height="14" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub-333333"/>
   <img width="38" height="25" src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png" alt="nodejs"/>
 <img width="38" height="17" src="https://lenguajesprogramacionblog.files.wordpress.com/2017/04/pascal_logo.png?w=1024" class="the-image">
-<img width="28" height="25" src="https://th.bing.com/th/id/OIP.pLwKwPoagVqt27pNMdrWWAAAAA?pid=ImgDet&rs=1" alt="Lazarus"/>
+<img width="28" height="25" src="https://th.bing.com/th/id/OIP.pLwKwPoagVqt27pNMdrWWAAAAA?pid=ImgDet&rs=1" alt="Lazarus"/><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://th.bing.com/th/id/R.bab2c760c60f17191cb3a002e08a3dbf?rik=yiOb%2bDZuARgRSw&amp;riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG23.png&amp;ehk=ughz54ymXwgnjlfws2xz7%2fznA2I4qAWExdUJe%2bcD7K0%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0" width="10%" >
  
   
 
