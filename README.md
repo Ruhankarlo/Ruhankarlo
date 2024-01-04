@@ -32,7 +32,7 @@ Sempre amei a √°rea da tecnologia desde que me entendo como pessoa, desde crian√
 <a href="https://www.linkedin.com/in/ruhan-karlo-da-rocha-lacerda-476b47231/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<a href="https://www.instagram.com/ruhankarlo/" target="_blank">
+<a href="https://www.instagram.com/ruhankarlopro/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
 <a href="https://www.facebook.com/ruhan.karlo" target="_blank">
