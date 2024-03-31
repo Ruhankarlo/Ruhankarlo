@@ -1,7 +1,7 @@
 ## OLÁ, MEU NOME É RUHAN KARLO
 Portifólio:
 
-<img src = "GitRuhan.gif" width=20% height=20%> 
+<img src = "GitRuhan.gif" width=40% height=40%> 
 
 
 **Uma breve apresentação:**
