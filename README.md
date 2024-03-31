@@ -1,7 +1,7 @@
 ## OLÁ, MEU NOME É RUHAN KARLO
 Portifólio:
 
-![GitRuhan.gif](https://media4.giphy.com/media/m10Gv80FMnbbBlfCAF/giphy.gif)
+<img src = "GitRuhan.gif" > 
 
 
 **Uma breve apresentação:**
