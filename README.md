@@ -18,14 +18,14 @@ Desde cedo, a tecnologia faz parte da minha vida de forma natural. Estou cursand
 
 
     
-<h3> 👾 &nbsp;Pricipais ferramentas</h3>
+
 <style>
     .icons-container {
       display: flex;
-      gap: 10px; /* Espaço entre os ícones */
+      gap: 10px; 
     }
     img {
-      width: 50px; /* Ajuste o tamanho conforme necessário */
+      width: 50px;
       height: 50px;
     }
   </style>
@@ -33,14 +33,14 @@ Desde cedo, a tecnologia faz parte da minha vida de forma natural. Estou cursand
 <body>
   <h3> 👾 &nbsp;Principais ferramentas</h3>
   <div class="icons-container">
-    <img src="assets/javaicon.png" alt="JAVA">
-    <img src="assets/eclipseicon.png" alt="ECLIPSE IDE">
-    <img src="assets/golangicon.png" alt="GO LANG">
-    <img src="assets/delphiicon.png" alt="DELPHI">
-    <img src="assets/pascalicon.png" alt="PASCALZIN">
-    <img src="assets/vscodeicon.png" alt="VSCODE">
+    <img src="javaicon.png" alt="JAVA">
+    <img src="eclipseicon.png" alt="ECLIPSE IDE">
+    <img src="golangicon.png" alt="GO LANG">
+    <img src="delphiicon.png" alt="DELPHI">
+    <img src="pascalicon.png" alt="PASCALZIN">
+    <img src="vscodeicon.png" alt="VSCODE">
   </div>
-  
+  </body>
 
 <a href="https://www.linkedin.com/in/ruhankarlo" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
