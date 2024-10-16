@@ -16,21 +16,30 @@ Desde cedo, a tecnologia faz parte da minha vida de forma natural. Estou cursand
 - ☑️ Reconheço-me como um programador Back-end;
 - 📫 Email: ruhankarlo@gmail.com
 
-img {
-      display: inline-block;
-      margin-right: 10px; /* Espaço entre os ícones */
+
+    
+<h3> 👾 &nbsp;Pricipais ferramentas</h3>
+<style>
+    .icons-container {
+      display: flex;
+      gap: 10px; /* Espaço entre os ícones */
+    }
+    img {
       width: 50px; /* Ajuste o tamanho conforme necessário */
       height: 50px;
     }
-    
-<h3> 👾 &nbsp;Pricipais ferramentas</h3>
-<img src="javaicon.png" alt="JAVA">
-<img src="eclipseicon.png" alt="ECLIPSE IDE">
-<img src="golangicon.png" alt="GO LANG">
-<img src="delphiicon.png" alt="DELPHI">
-<img src="pascalicon.png" alt="PASCALZIN">
-<img src="vscodeicon.png" alt="VSCODE">
-
+  </style>
+</head>
+<body>
+  <h3> 👾 &nbsp;Principais ferramentas</h3>
+  <div class="icons-container">
+    <img src="assets/javaicon.png" alt="JAVA">
+    <img src="assets/eclipseicon.png" alt="ECLIPSE IDE">
+    <img src="assets/golangicon.png" alt="GO LANG">
+    <img src="assets/delphiicon.png" alt="DELPHI">
+    <img src="assets/pascalicon.png" alt="PASCALZIN">
+    <img src="assets/vscodeicon.png" alt="VSCODE">
+  </div>
   
 
 <a href="https://www.linkedin.com/in/ruhankarlo" target="_blank">
