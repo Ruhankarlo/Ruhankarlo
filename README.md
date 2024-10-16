@@ -19,20 +19,9 @@ Desde cedo, a tecnologia faz parte da minha vida de forma natural. Estou cursand
 
     
 
-<style>
-    .icons-container {
-      display: flex;
-      gap: 10px; 
-    }
-    img {
-      width: 50px;
-      height: 50px;
-    }
-  </style>
-</head>
-<body>
+
   <h3> 👾 &nbsp;Principais ferramentas</h3>
-  <div class="icons-container">
+  <div style="display: flex; gap: 10px;">
     <img src="javaicon.png" alt="JAVA">
     <img src="eclipseicon.png" alt="ECLIPSE IDE">
     <img src="golangicon.png" alt="GO LANG">
@@ -40,7 +29,7 @@ Desde cedo, a tecnologia faz parte da minha vida de forma natural. Estou cursand
     <img src="pascalicon.png" alt="PASCALZIN">
     <img src="vscodeicon.png" alt="VSCODE">
   </div>
-  </body>
+
 
 <a href="https://www.linkedin.com/in/ruhankarlo" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
