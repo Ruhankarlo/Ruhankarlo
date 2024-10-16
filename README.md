@@ -16,7 +16,13 @@ Desde cedo, a tecnologia faz parte da minha vida de forma natural. Estou cursand
 - ☑️ Reconheço-me como um programador Back-end;
 - 📫 Email: ruhankarlo@gmail.com
 
-
+img {
+      display: inline-block;
+      margin-right: 10px; /* Espaço entre os ícones */
+      width: 50px; /* Ajuste o tamanho conforme necessário */
+      height: 50px;
+    }
+    
 <h3> 👾 &nbsp;Pricipais ferramentas</h3>
 <img src="javaicon.png" alt="JAVA">
 <img src="eclipseicon.png" alt="ECLIPSE IDE">
@@ -27,15 +33,13 @@ Desde cedo, a tecnologia faz parte da minha vida de forma natural. Estou cursand
 
   
 
-<a href="https://www.linkedin.com/in/ruhan-karlo-da-rocha-lacerda-476b47231/" target="_blank">
+<a href="https://www.linkedin.com/in/ruhankarlo" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <a href="https://www.instagram.com/ruhankarlopro/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
-<a href="https://www.facebook.com/ruhan.karlo" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png" width="48px" height="48px">
-</a>
+
 
 
 
