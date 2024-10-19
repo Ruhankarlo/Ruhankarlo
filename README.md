@@ -26,7 +26,7 @@ Desde cedo, a tecnologia faz parte da minha vida de forma natural. Estou cursand
     <img src="eclipseicon.png" alt="ECLIPSE IDE">
     <img src="golangicon.png" alt="GO LANG">
     <img src="delphiicon.png" alt="DELPHI">
-    <img src="pascalicon.png" alt="PASCALZIN">
+ 
     <img src="vscodeicon.png" alt="VSCODE">
   </div>
 
