@@ -6,7 +6,7 @@ Portifólio:
 
 **Uma breve apresentação:**
 
-Desde cedo, a tecnologia faz parte da minha vida de forma natural. Estou cursando Ciência da Computação e, além do que aprendo na graduação, busco sempre me aprofundar por conta própria. Nos últimos anos, venho criando projetos e me especializando em Back-end, com foco em melhorar minhas habilidades e conhecimento na área.
+Atualmente trabalho como Analista de Suporte, venho me desenvolvendo na área voltada para o Desenvolvimento Backend e Devops.
 
 
 **Sobre mim:**
@@ -25,8 +25,7 @@ Desde cedo, a tecnologia faz parte da minha vida de forma natural. Estou cursand
     <img src="javaicon.png" alt="JAVA">
     <img src="eclipseicon.png" alt="ECLIPSE IDE">
     <img src="golangicon.png" alt="GO LANG">
-    <img src="delphiicon.png" alt="DELPHI">
- 
+
     <img src="vscodeicon.png" alt="VSCODE">
   </div>
 
