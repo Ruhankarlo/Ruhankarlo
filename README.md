@@ -6,7 +6,7 @@ Portifólio:
 
 **Uma breve apresentação:**
 
-Atualmente trabalho como Analista de Suporte, venho me desenvolvendo na área voltada para o Desenvolvimento Backend e Devops.
+Atualmente trabalho como Analista de Suporte, venho me desenvolvendo na área voltada para o Desenvolvimento Backend.
 
 
 **Sobre mim:**
@@ -22,10 +22,7 @@ Atualmente trabalho como Analista de Suporte, venho me desenvolvendo na área vo
 
   <h3> 👾 &nbsp;Principais ferramentas</h3>
   <div style="display: flex; gap: 10px;">
-    <img src="javaicon.png" alt="JAVA">
-    <img src="eclipseicon.png" alt="ECLIPSE IDE">
     <img src="golangicon.png" alt="GO LANG">
-
     <img src="vscodeicon.png" alt="VSCODE">
   </div>
 
